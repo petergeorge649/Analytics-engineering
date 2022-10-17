@@ -16,3 +16,7 @@ GIT LAB CODES
 --(base) Peters-MacBook-Pro:dbtlearn petergeorge$ git push -u -f source devbranch
 
 --(base) Peters-MacBook-Pro:dbtlearn petergeorge$ git merge
+
+--------------DBT---------------
+
+Dimensions are for categorical data and fact tables are for numerical data
