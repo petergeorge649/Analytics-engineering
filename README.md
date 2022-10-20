@@ -24,17 +24,11 @@ Dimensions are for categorical data and fact tables are for numerical data
 
 
 -------------TODAY-------------------
-base) Peters-MacBook-Pro:dbtlearn petergeorge$ git add .
-(base) Peters-MacBook-Pro:dbtlearn petergeorge$ git branch 
-(base) Peters-MacBook-Pro:dbtlearn petergeorge$ git checkout -b newdevbranch
-(base) Peters-MacBook-Pro:dbtlearn petergeorge$ gti branch 
-(base) Peters-MacBook-Pro:dbtlearn petergeorge$ git branch
-(base) Peters-MacBook-Pro:dbtlearn petergeorge$ git add .
-(base) Peters-MacBook-Pro:dbtlearn petergeorge$ git commit -m 'latestcodes'
-remote: To create a merge request for newdevbranch, visit:
-remote:   https://gitlab.com/dbtlean/dbtlearn/-/merge_requests/new?merge_request%5Bsource_branch%5D=newdevbranch
-remote: 
-To https://gitlab.com/dbtlean/dbtlearn.git
- * [new branch]      newdevbranch -> newdevbranch
-Branch 'newdevbranch' set up to track remote branch 'newdevbranch' from 'source'.
-(base) Peters-MacBook-Pro:dbtlearn petergeorge$ git merge
+--- git add .
+--- git branch 
+--- git checkout -b newdevbranch
+--- gti branch 
+--- git branch
+--- git add .
+--- git commit -m 'latestcodes'
+--- git merge
